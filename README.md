@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭 I’m currently working on an university final project with Vue.js
+🌱 I’m currently learning TypeScript
+😄 Pronouns: He/Him
 <!--
 **algodoncin/algodoncin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
