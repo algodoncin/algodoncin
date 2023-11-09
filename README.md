@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an university final project with Vue.js
-- 🌱 I’m currently learning Node.js & MongoDB
+- 🌱 I’m currently learning Node.js & MongoDB with mongoose
 - 😄 Pronouns: He/Him
 <!--
 **algodoncin/algodoncin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
